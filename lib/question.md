@@ -1,5 +1,7 @@
-Create a class Car with the following properties:
+মডিউল ৫ এর অ্যাসাইনমেন্ট
+মডিউল ৫ এর অ্যাসাইনমেন্ট :
 
+Create a class Car with the following properties:
 ● brand: a string representing the brand of the car
 ● model: a string representing the model of the car
 ● year: an integer representing the year the car was made
@@ -11,9 +13,6 @@ number of miles driven and adds it to the milesDriven property
 ● getBrand(): a method that returns the value of the brand property
 ● getModel(): a method that returns the value of the model property
 ● getYear(): a method that returns the value of the year property
-
-
-
 
 
 ● getAge(): a method that returns the age of the car (i.e. the difference between the
@@ -29,4 +28,3 @@ Also print out the age of each car using the getAge() method.
 Finally, print out the total number of Car objects created using the numberOfCars static
 property.
 
-https://ostad.app/dashboard/my-courses/65f02b3d02d43a6079b26535 
