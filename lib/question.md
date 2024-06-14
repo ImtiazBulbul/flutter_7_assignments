@@ -1,4 +1,5 @@
 Create a class Car with the following properties:
+
 ● brand: a string representing the brand of the car
 ● model: a string representing the model of the car
 ● year: an integer representing the year the car was made
