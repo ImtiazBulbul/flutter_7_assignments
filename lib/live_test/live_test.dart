@@ -1,6 +1,6 @@
 void main(){
-  int x=4;
-  int y=5;
-  print(x+y);
+  int x=20;
+  int y=10;
+  print(x*y);
   print('hello');
 }
