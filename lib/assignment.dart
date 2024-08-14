@@ -64,7 +64,9 @@ class Home extends StatelessWidget{
                     ),
                   ),
                 style: ElevatedButton.styleFrom(
-
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(25),
+                    ),
                   backgroundColor: Colors.green,
                 ),
                 ),

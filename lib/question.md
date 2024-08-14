@@ -1,31 +1,24 @@
-মডিউল ৫ এর অ্যাসাইনমেন্ট
-মডিউল ৫ এর অ্যাসাইনমেন্ট :
+মডিউল ১০ এর এসাইনমেন্ট
+Assignment : Extend the Greeting App
 
-Create a class Car with the following properties:
-● brand: a string representing the brand of the car
-● model: a string representing the model of the car
-● year: an integer representing the year the car was made
-● milesDriven: a double representing the number of miles driven by the car
-The class should have the following methods:
-● drive(double miles): a method that takes a double parameter representing the
-number of miles driven and adds it to the milesDriven property
-● getMilesDriven(): a method that returns the value of the milesDriven property
-● getBrand(): a method that returns the value of the brand property
-● getModel(): a method that returns the value of the model property
-● getYear(): a method that returns the value of the year property
+Objective
 
+To extend the given Flutter app by adding more widgets and functionality to understand the use of various Flutter widgets and basic interaction handling.
 
-● getAge(): a method that returns the age of the car (i.e. the difference between the
-current year and the year property)
-★ The class should also have a static property called numberOfCars that keeps track
-of the number of Car objects that have been created. This property should be
-incremented every time a Car object is created.
-In the main() function, create three Car objects with different brands, models, and years.
-Drive each car a different number of miles using the drive() method.
-Print out the brand, model, year, and miles driven for each car using the
-getBrand(), getModel(), getYear(), and getMilesDriven() methods, respectively.
-Also print out the age of each car using the getAge() method.
-Finally, print out the total number of Car objects created using the numberOfCars static
-property.
+Instructions
+1. Display Additional Text:
 
-url: https://ostad.app/dashboard/my-courses/65f02b3d02d43a6079b26535/module/663548303cc01d7dcbab847c/assignment/66363aa53cc01d7dcbad4a5d 
+Below the existing "Hello, World!" text, add another Text widget that says "Welcome to Flutter!".
+2. Add an Image(Optional):
+
+Add an image below the new text. You can use any image URL from the internet or add an image to your project's assets folder and use it.
+3. Interactive Button:
+
+Modify the button so that when it is pressed, it shows a Snackbar with the message "Button Pressed!".
+4. Custom Styling:
+
+Change the text color of the "Hello, World!" message to red and make it bold.
+
+Change the button color to green.
+
+url: https://ostad.app/dashboard/my-courses/65f02b3d02d43a6079b26535/module/undefined/assignment/66ab6adae596827c54318bde
